@@ -1,0 +1,74 @@
+@media only screen and (max-device-width: 1400px) and (max-device-height: 900px) {
+
+    
+    .message-snippet-text {
+        font-size: 1em;
+    }
+    
+    .section-text {
+        font-size: 1.3em; 
+    }
+    
+    .project-text {
+        width: 45%;
+        font-size: 1em;
+        line-height: 120%;
+    }
+}
+
+
+#logo {
+    width: 9.5%;
+}
+
+.message-snippet-text {
+    font-size: 1.1em; 
+}
+
+.project-text {
+    width: 45%;
+}
+
+
+
+@media screen and (min-aspect-ratio: 16/8), screen and (max-width: 1366px) {
+	
+	.intro-quote { 
+		font-size: 9.9em; 
+	}
+	
+	.intro-text-box {
+/*		width: 75%; */
+	}
+	
+	#logo {
+		width: 9%;
+		padding-top: 2%;
+	}
+	
+	.message-snippet-text {
+		font-size: 1em;
+	}
+    
+    #facts {
+        padding: 6% 0 5% 0;
+    }
+	
+	.project-text {
+		width: 43%;
+	}
+    
+}   
+
+@media screen 
+  and (max-device-width: 1280px) 
+  and (max-device-height: 800px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+    
+    .message-snippet-text {
+        font-size: 0.93em;
+    }
+      
+    .intro-quote {
+        font-size: 9.9em;
+}
