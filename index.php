@@ -1,0 +1,1 @@
+<?php header( 'Location: dhruthi%20website/index.html' ) ;  ?>
